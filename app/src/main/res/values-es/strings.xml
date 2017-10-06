@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConvertidorKmMillas</string>
+    <string name="km">Quilómetros</string>
+    <string name="m">Millas</string>
+    <string name="txt">Presionar Intro o los cuadros de texto para realizar la conversión</string>
+</resources>
